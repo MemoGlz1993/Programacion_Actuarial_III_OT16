@@ -1,0 +1,26 @@
+---
+title: "Tarea 1"
+author: "Guillermo Gonzalez Melgarejo"
+date: "August 29, 2016"
+output: html_document
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+## Primer semestre
+  * Matematicas Basicas 6
+  * Problemas de Matematicas Basicas 6
+  * Conceptos de Calculo 7
+  * Programacion Actuarial I 9
+  * Introduccion a la Profesion Actuarial 6
+
+## Segundo semestre
+  * Calculo Diferencial 6
+  * Teoria de Ecuaciones 6
+  * Programacion Actuarial II 7
+  * Geometria Analitica 5
+  * Teoria del Interes I 5
+  * Microeconomia 8
+  
+
